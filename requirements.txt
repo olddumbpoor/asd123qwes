@@ -1,6 +1,4 @@
-pytest             
-python-dotenv      
-selenium           
-webdriver-manager
-pytest-html
-allure-pytest
+selenium==4.9
+time
+csv
+
